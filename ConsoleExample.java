@@ -4,7 +4,7 @@ public class ConsoleExample {
         Console console = System.console();
         if (console != null) {
             String user = console.readLine("Enter username: ");
-            char[] password = console.readPassword("Enter password: ");
+            //char[] password = console.readPassword("Enter password: ");
             System.out.println("Welcome, " + user);
         } else {
             System.out.println("Console not available.");
