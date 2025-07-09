@@ -3,11 +3,10 @@
  * * This class demonstrates the use of static and 
  * * public methods in Java.
  * 
- * @author Dr. S. Sampath Kumar
+ * @author KAVIN PRAKASH T
  * @since 07-07-2025
  * @version 1.0
  */
-//package A_Boot_Camp.Day3;
 
 class Method {
   // Static method
@@ -25,9 +24,10 @@ public class C_Method {
   // Main method
   public static void main(String[] args) {
 	  Method.myStaticMethod(); // Call the static method
-    // myPublicMethod(); // This would compile an error
+    //Method.myPublicMethod(); // This would compile an error
 
 		Method myObj = new Method(); // Create an object of Method
 		myObj.myPublicMethod(); // Call the public method on the object
+    //myObj.myStaticMethod();
   }
 }

@@ -3,12 +3,10 @@
  * * This class demonstrates the use of parameterized constructors 
  * * in Java.
  * * This class defines a Data class with a parameterized constructor
- * * @author Dr. S. Sampath Kumar
+ * * @author KAVIN PRAKASH T
  * * @since 08-07-2025
  * * @version 1.0
  * */
-//package A_Boot_Camp.Day3;
-
 class Data {
 	// data members of the class.
 	// initialized with default values.

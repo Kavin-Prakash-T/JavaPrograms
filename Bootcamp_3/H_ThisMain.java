@@ -3,11 +3,10 @@
  * * This class demonstrates the use of the `this` keyword in Java.
  * * The `this` keyword is used to refer to the current instance of a class.
  * * It is often used to resolve naming conflicts between instance variables and parameters.
- * * @author Dr. S. Sampath Kumar
+ * * @author  KAVIN PRAKASH T
  * * @since 08-07-2025
  * * @version 1.0
  */
-//package A_Boot_Camp.Day3;
 
 public class H_ThisMain {
   int x = 10;

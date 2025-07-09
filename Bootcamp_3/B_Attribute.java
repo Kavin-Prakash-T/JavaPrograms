@@ -1,12 +1,10 @@
-package Day3;
 /**
  * This file is part of the Boot Camp project.
  * This class demonstrates the use of Attributes or fields in a class.
- * * @author Dr. S. Sampath Kumar
+ * * @author KAVIN PRAKASH T
  * * @since 08-07-2025
  * * @version 1.0
  */
-//package A_Boot_Camp.Day3;
 
 class Attribute{
     // Instance Attribute
@@ -30,7 +28,7 @@ public class B_Attribute {
         Attribute field = new Attribute();
         // Access and print the value of iValue
         System.out.println("Value of iValue: " + field.iValue);
-        System.out.println("Value of static field sStaticValue: " + field.sStaticValue);    
+        System.out.println("Value of static field sStaticValue: " + Attribute.sStaticValue);   //field.sStaticValue
         field.iValue = 20; // Overriding the field value
         System.out.println("Modified value of iValue: " + field.iValue);
         // Create another instance of the Field class
@@ -38,6 +36,7 @@ public class B_Attribute {
         // field.sValue = "World"; // This line will cause an error because sValue is final
         // Access and print the value of iValue in the new instance
         // System.out.println("Value of iValue in field2: " + field2.iValue);
+        System.out.println("Value of iValue: " + field2.iValue);
         System.out.println("Value of static field sStaticValue in field2: " + field2.sStaticValue);
     }
 }

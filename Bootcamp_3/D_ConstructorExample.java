@@ -2,11 +2,10 @@
  * * This file is part of the Boot Camp project.
  * * This class demonstrates the use of constructors in Java.
  * 
- * @author Dr. S. Sampath Kumar
+ * @author KAVIN PRAKASH T
  * @since 08-07-2025
  * @version 1.0
  */
-//package A_Boot_Camp.Day3;
 
 public class D_ConstructorExample {
 	/**

@@ -1,13 +1,12 @@
-package Day3;
+//package Day3;
 /**
  * * This file is part of the Boot Camp project.
  * * This class demonstrates the addition of two numbers 
  * * using a separate class.
- * * @author Dr. S. Sampath Kumar
+ * * @author KAVIN PRAKASH T
  * * @since 08-07-2025
  * * @version 1.0
  */
-//package A_Boot_Camp.Day3;
 import java.util.Scanner;
 class Add
 { 

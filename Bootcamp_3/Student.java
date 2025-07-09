@@ -1,4 +1,3 @@
-//package A_Boot_Camp.Day3;
 class Book {
     String title;
 

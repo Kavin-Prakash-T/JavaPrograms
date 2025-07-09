@@ -1,11 +1,10 @@
 /**
 * * This file is part of the Java Boot Camp course.
 * * This class demonstrates the use of a default constructor.
-* @author Dr. S. Sampath Kumar
+* @author KAVIN PRAKASH T
 * @since 08-07-2025
 * @version 1.0
 */
-//package A_Boot_Camp.Day3;
 
 public class E_DefaultConstructor {
 	String name;
