@@ -37,6 +37,6 @@ public class B_Attribute {
         // Access and print the value of iValue in the new instance
         // System.out.println("Value of iValue in field2: " + field2.iValue);
         System.out.println("Value of iValue: " + field2.iValue);
-        System.out.println("Value of static field sStaticValue in field2: " + field2.sStaticValue);
+        System.out.println("Value of static field sStaticValue in field2: " +Attribute.sStaticValue );//field2.sStaticValue
     }
 }
