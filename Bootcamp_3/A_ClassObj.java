@@ -1,4 +1,3 @@
-//package Day3;
 /**
  * * This file is part of the Boot Camp project.
  * * This class demonstrates the addition of two numbers 

@@ -29,6 +29,6 @@ public class D_ConstructorExample {
 		 * Creating an instance of ConstructorExample
 		 * This will call the constructor and print "Constructor Called".
 		 */
-		D_ConstructorExample ce = new D_ConstructorExample();
+		//D_ConstructorExample ce = new D_ConstructorExample();
 	}
 }
