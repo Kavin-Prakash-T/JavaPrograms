@@ -5,7 +5,6 @@
  * * and prints the result.
  * * It shows how to declare, allocate, and initialize 
  * * a multi-dimensional array.
- * @package A_Boot_Camp.Day4 
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

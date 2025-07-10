@@ -9,7 +9,6 @@
  * * The exception occurs because the array is declared with a size of 5,
  * * but the code attempts to access index 6, which does not exist.
  * * This is a common error when working with arrays in Java.
- * @package A_Boot_Camp.Day4
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

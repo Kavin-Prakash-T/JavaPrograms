@@ -3,7 +3,6 @@
  * * This class demonstrates how to return an array from a function in Java.
  * * It defines a function that multiplies each element of the array by 2.
  * * The function takes an array as a parameter and returns the modified array.
- * @package A_Boot_Camp.Day4 
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

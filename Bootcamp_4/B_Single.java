@@ -5,7 +5,6 @@
  * * This class defines a single-dimensional array of strings
  * * and prints its elements using a for-each loop.
  * * It also finds the length of the array.
- * 
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

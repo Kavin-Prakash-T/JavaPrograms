@@ -9,7 +9,6 @@
  * * For primitive arrays like int[], it’s a deep copy — values are duplicated
  * * For object arrays like String[], it’s a shallow copy — references are duplicated
 
- * @package A_Boot_Camp.Day4
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

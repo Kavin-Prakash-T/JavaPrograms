@@ -5,7 +5,6 @@
  * * It shows how to pass an anonymous array to a method.
  * * The method calculates the sum of the elements in the array.
  * * * It uses a for-each loop to iterate through the array elements.
- * @package A_Boot_Camp.Day4 
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0

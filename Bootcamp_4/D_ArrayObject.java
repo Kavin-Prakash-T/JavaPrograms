@@ -6,7 +6,6 @@
  * * It shows how to declare, allocate, and initialize an array of objects.
  * * The Student class has a constructor that prints the student's ID and name.
  * * The main method creates an array of Student objects and initializes them.
- * @package A_Boot_Camp.Day4 
  * @author Kavin Prakash T
  * @since 09-07-2025
  * @version 1.0
