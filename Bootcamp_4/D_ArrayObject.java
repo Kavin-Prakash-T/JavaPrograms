@@ -23,8 +23,8 @@ public class D_ArrayObject {
     // lazy initialization: -  array is declared first, objects added later
     Student obj[] = new Student[3];
     
-    obj[0] = new Student(96,"Jenitha");
-    obj[1] = new Student(112,"Kavipriya");
-    obj[2] = new Student(119,"Kowsalya");
+    obj[0] = new Student(111,"Kavin");
+    obj[1] = new Student(132,"Manoj");
+    obj[2] = new Student(115,"Aanand");
   }
 }
